@@ -5,8 +5,6 @@
 
 **Clone the project:**
 
-    git@github.com:fallenblood7080/AniGo-Anime-Streaming-App.git
-
 After cloning open the project in your editor
 
 Open the terminal and type the following command:
